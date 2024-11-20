@@ -13,7 +13,7 @@ BITSTEP은 스타트업의 최고의 파트너입니다. 데이터로 확인하�
 언제든지 문의주세요!
 
 ---
-[코딩 컨벤션 보기](Coding Conventions.md)
-
+[코딩 컨벤션 보기(Coding Conventions.md)
+](https://github.com/BITSTEP-IT/.github/blob/main/profile/Coding%20Conventions.md)
 
 ---
